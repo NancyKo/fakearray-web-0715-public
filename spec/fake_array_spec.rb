@@ -1,6 +1,6 @@
 describe 'fake array' do
 
-  describe '#reformat_languages' do
+  describe 'xxx' do
 
     it 'should allow you to index into it' do
       fake_array = FakeArray.new(1,2,3)
